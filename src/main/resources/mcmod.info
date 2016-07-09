@@ -1,0 +1,15 @@
+[
+{
+  "modid": "dadgmrtutorial",
+  "name": "Example My First Mod Tutorial",
+  "description": "Mr Crayfish Mod 1.9 Tutorial 2",
+  "version": "1.0",
+  "mcversion": "1.94",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DadGamer"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
